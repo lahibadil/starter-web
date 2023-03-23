@@ -20,3 +20,6 @@ SALIM
 #COPYRIGHT
 2022 ALL RIGHTS RESERVED
 THANK YOU ALL
+this diff is in Commit
+this diff is in staged
+this diff is in working directory
