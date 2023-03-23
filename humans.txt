@@ -25,3 +25,4 @@ this diff is in staged
 this diff is in working directory
 changes to feature branch
 changes in master branch
+changes to next branch
