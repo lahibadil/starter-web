@@ -1,5 +1,6 @@
 # This a README file
 ## INTRODUCTION
+Introduction to GIT and GITHUB
 ## DEPLOYMENT
 first modif committed
 second modif just added
